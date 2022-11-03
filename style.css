@@ -507,10 +507,10 @@ hr{
     display: none;
 }
 #bluecar{
-    animation-duration: 1.5s;
+    animation-duration: 1.3s;
 }
 #tank{
-    animation-duration: 1.5s;
+    animation-duration: 1.3s;
 }
 body{
     overflow: hidden;
